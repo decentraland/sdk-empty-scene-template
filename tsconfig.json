@@ -6,8 +6,8 @@
   "include": [
     "src/**/*.ts",
     "src/**/*.tsx",
-    "assets/scene/Scripts/**/*.ts",
-    "assets/scene/Scripts/**/*.tsx"
+    "assets/**/*.ts",
+    "assets/**/*.ts"
   ],
   "extends": "@dcl/sdk/types/tsconfig.ecs7.json"
 }
