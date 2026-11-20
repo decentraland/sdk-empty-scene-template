@@ -19,3 +19,7 @@ README.md
 *.rar
 *.md
 src
+skills-lock.json
+agent/
+.agents/
+.claude/
